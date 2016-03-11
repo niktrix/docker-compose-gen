@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bb88e58-a471-4f19-ae40-0b2a88e1b10f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/inhouse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/inhouse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jsPlumbToolkit-defaults.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jsPlumbToolkit-demo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="3bb88e58-a471-4f19-ae40-0b2a88e1b10f" name="Default" comment="" />
     <ignored path="docker-compose-gen.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />

@@ -1,0 +1,30 @@
+{
+  "name": "docker-compose-gen",
+  "homepage": "https://github.com/niktrix/docker-compose-gen",
+  "authors": [
+    "nicky g <nicky.gurbani@gmail.com>"
+  ],
+  "description": "User Interface to create docker compose YAML",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "docker",
+    "docker-compose",
+    "docker",
+    "compose",
+    "ui",
+    "packaging"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jsPlumb": "jsplumb#~2.0.7"
+  }
+}
